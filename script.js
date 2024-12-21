@@ -1,5 +1,5 @@
 let userscore= 0;
-let compScore = 0;
+let compScore = 0
 const choices = document.querySelectorAll(".choice")
 const message = document.querySelector(".msg")
 const userPoints= document.querySelector(".user-para")
