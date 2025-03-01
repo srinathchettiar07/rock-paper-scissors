@@ -8,8 +8,8 @@ const reset= document.querySelector(".Reset")
 const compChoice= () => {
 const option = ["rock","paper","scissors"];
 let index =Math.floor(3*Math.random());
-let kms = option[index];
-return kms;
+let km = option[index];
+return km;
 
 }
 
